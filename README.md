@@ -17,7 +17,7 @@
 
 **Claude Code**：
 ```bash
-git clone https://github.com/<你的帳號>/da-liu-ren-skill.git
+git clone https://github.com/a0987712293-sketch/da-liu-ren-skill.git
 cp -r da-liu-ren-skill/da-liu-ren ~/.claude/skills/
 pip install -r da-liu-ren-skill/requirements.txt
 ```
